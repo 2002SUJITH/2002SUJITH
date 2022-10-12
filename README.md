@@ -1,5 +1,5 @@
 - 👋 Hi, I’m SUJITH T S
-- 👀 I’m interested in coding and problemsolving
+- 👀 I’m interested in coding and problem solving
 - 🌱 I’m currently learning java
 - 📫 How to reach me ? -> tssujith2002@gmail.com
 
