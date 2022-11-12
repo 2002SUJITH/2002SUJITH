@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SUJITH T S
 - 👀 I’m interested in coding and problem solving
-- 🌱 I’m currently learning java
+- 🌱 I’m currently not working
 - 📫 How to reach me ? -> tssujith2002@gmail.com
 
 <!---
